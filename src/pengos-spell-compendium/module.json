@@ -24,21 +24,12 @@
         "id": "dnd5e",
         "type": "system"
       }
-    ],
-    "requires": [
-      {
-        "id": "socketlib",
-        "type": "module"
-      }
     ]
   },
   "conflicts": [],
   "scripts": [
     "./index.js",
     "./spells/Toll The Dead.js"
-  ],
-  "styles": [
-    "/styles/module.css"
   ],
   "system": [
     "dnd5e"
