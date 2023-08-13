@@ -1,4 +1,4 @@
-class TollTheDead extends Item {
+class TollTheDead extends Item5e {
     constructor(data, options) {
         super(data, options);
     }
