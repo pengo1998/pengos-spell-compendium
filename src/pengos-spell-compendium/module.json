@@ -2,7 +2,7 @@
   "id": "pengos-spell-compendium",
   "title": "Pengos Spell Compendium",
   "description": "A collection of spells not included in SRD",
-  "version": "",
+  "version": "0.0.1",
   "library": "false",
   "manifestPlusVersion": "0.0.1",
   "compatibility": {
