@@ -33,7 +33,8 @@
     ]
   },
   "conflicts": [],
-  "esmodules": [
+  "scripts": [
+    "./index.js",
     "./spells/Toll The Dead.js"
   ],
   "styles": [
