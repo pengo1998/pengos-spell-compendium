@@ -14,7 +14,7 @@
   "authors": [
     {
       "name": "pengo1998",
-      "url": "",
+      "url": "https://www.github.com/pengo1998",
       "discord": "theengimaticpenguin"
     }
   ],
@@ -26,7 +26,6 @@
       }
     ]
   },
-  "conflicts": [],
   "scripts": [
     "./index.js",
     "./spells/Toll The Dead.js"
