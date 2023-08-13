@@ -44,7 +44,7 @@
     "dnd5e"
   ],
   "url": "https://github.com/pengo1998/pengos-spell-compendium",
-  "manifest": "https://github.com/pengo1998/pengos-spell-compendium/tree/main/src/pengos-spell-compendium/module.json",
+  "manifest": "https://raw.githubusercontent.com/pengo1998/pengos-spell-compendium/main/src/pengos-spell-compendium/module.json",
   "download": "https://raw.githubusercontent.com/pengo1998/pengos-spell-compendium/main/releases/pengos-spell-compendium.zip",
   "name": "",
   "minimumCoreVersion": "11",
